@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:onlyLocalStylesheets="False" MadCap:searchable="False" style="mc-master-page: url('..\Resources\TemplatePages\Course-Title.flmsp');" class="course-title-topic" xml:space="preserve">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด2ตว融</h1>
+        <p>砻קยด3ตว融</p>
+        <p MadCap:conditions="Default.CombinationCourseOnly">砻קยด4ตว融</p>
+        <p MadCap:conditions="Default.KnowledgeCheckOnly">砻קยด5ตว融</p>
+        <p MadCap:conditions="Default.TestOnly">砻קยด6ตว融</p>
+        <p><a href="2-Just-Text.htm" alt="砻קยด1ตว融">砻קยด7ตว融</a></p>
+    </body>
+</html>
